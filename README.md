@@ -8,5 +8,5 @@ I am Lindomar Sodré Defanti, I am a Front End developer, I am currently learnin
 <br>
 Connect with me:
 <br>
--
+
 - <a href="https://www.linkedin.com/in/lindomar-s-defanti-574ab6341"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" >
