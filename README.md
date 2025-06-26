@@ -9,4 +9,5 @@ I am Lindomar Sodré Defanti, I am a Front End developer, I am currently learnin
 Connect with me:
 <br>
 
-- <a href="https://www.linkedin.com/in/lindomar-s-defanti-574ab6341"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" >
+- <a href="https://www.linkedin.com/in/lindomar-s-defanti-574ab6341"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+- <a href"https://www.instagram.com/mr.defanti/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
